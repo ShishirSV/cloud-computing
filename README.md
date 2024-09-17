@@ -1,2 +1,2 @@
 # cloud-computing
-Coursera-Clould Computing Specialization
+Distributed system management implementaion
